@@ -1,0 +1,22 @@
+user_import: "사용자 목록 읽어들이기"
+
+# index view
+label_upload_notice: "읽어들일 CSV 파일을 선택하세요. 파일은 해더를 위한 하나의 행이 반드시 존재해야 합니다."
+label_upload_format: "파일 형식 설정"
+label_upload_encoding: "파일 엔코딩:"
+label_upload_splitter: "필드 구별 문자:"
+label_upload_wrapper: "필드를 감싸기 위해 사용될 문자:"
+button_upload: "업로드하기"
+
+# match view
+label_match_columns: "열 (Column) 매칭"
+label_match_select: "매치 필드 선택"
+label_toplines: "%s의 모든 라인 표시:"
+message_missing_imported_file: "읽어들이기위한 파일을 찾을 수 없습니다"
+button_submit: "제출하기"
+
+# result view
+label_import_result: "읽어들이기 결과"
+label_result_notice: "%d 개의 이슈 처리됨. %d 개의 이슈 읽어들이기 성공."
+label_result_failed: "%d 번째 줄 실패:"
+message_unique_filed_duplicated: "Unique 필드인 \"login\" 이 중복되었습니다. 중복된 행이 있는지 점검해주세요."
